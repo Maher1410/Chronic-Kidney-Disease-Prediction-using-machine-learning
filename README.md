@@ -4,16 +4,6 @@ This webapp was developed using Flask Web Framework. The models used to predict 
 
 - Chronic-Kidney-Disease-Prediction
 
-![image](https://user-images.githubusercontent.com/62790398/125474693-082d87df-953e-43d2-b175-08afd43ec9b0.png)
-
-![image](https://user-images.githubusercontent.com/62790398/125474884-71a047bf-2648-49ff-816d-907b1dc2b68a.png)
-
-![image](https://user-images.githubusercontent.com/62790398/125475302-8e02b5d8-d0b2-473b-b83e-f4d807dc0412.png)
-
-![image](https://user-images.githubusercontent.com/62790398/125475398-c9a38e88-7cf1-4c37-aec7-5669280f8a22.png)
-
-![image](https://user-images.githubusercontent.com/62790398/125475606-78b45b72-14d5-4399-bcf5-34f3a8bbb9ff.png)
-
 
 ## Steps to run this application in your system
 
@@ -52,6 +42,5 @@ The dataset were used from kaggle.
 ## I Hope this Will be Useful to practise the Machine Learning.
 - If you like this Project - Give me a Star⭐⭐
 - For more Intresting Project, Follow me in Github
-- [LinkedIN](https://linkedin.com/in/venkata-sreeram)
-#### Best regards:
-### Venkata Sreeram😊
+- [LinkedIN](https://www.linkedin.com/in/alymaher/)
+#### Best regards
